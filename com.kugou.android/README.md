@@ -3,14 +3,14 @@
 
 ### 参数说明
 
-| (类型)参数 | 参数说明 | 类型 |
+| 参数 | 类型 | 说明 | 备注 |
 | :--- | ---: | --- |
-| (int)appid         |
-| (int)clientver     | 版本号          |
-| dfid               |
-| mid                |
-| (int)userid        | 酷狗ID          |
-| (string)token      | token          |
-| uuid               | uuid           |
-| (int)clienttime    | 秒时间戳(10位)   |
-| (int)clienttime_ms | 毫秒时间戳(13位) |
+| appid | int |
+| clientver | int | 版本号 |
+| dfid |
+| mid |
+| userid | int | 酷狗ID |
+| token | string | token |
+| uuid | string | uuid |
+| clienttime | int | 秒时间戳(10位) |
+| clienttime_ms | int | 毫秒时间戳(13位) |
