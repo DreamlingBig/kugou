@@ -10,7 +10,7 @@
 | dfid |
 | mid |
 | userid | int | 酷狗ID(9位) | 如果没有登录为0 |
-| token | string | token(61位|64位) | 如果没有登录为空 |
+| token | string | token(61位\|64位) | 如果没有登录为空 |
 | uuid | string | uuid(32位) |
 | clienttime | int | 秒时间戳(10位) |
 | clienttime_ms | int | 毫秒时间戳(13位) |
