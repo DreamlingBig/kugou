@@ -9,8 +9,8 @@
 | clientver | int | APP版本号 |
 | dfid |
 | mid |
-| userid | int | 酷狗ID |
-| token | string | token |
+| userid | int | 酷狗ID | 如果没有登录为0 |
+| token | string | token | 如果没有登录为空 |
 | uuid | string | uuid |
 | clienttime | int | 秒时间戳(10位) |
 | clienttime_ms | int | 毫秒时间戳(13位) |
