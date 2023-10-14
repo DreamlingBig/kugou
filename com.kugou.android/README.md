@@ -18,9 +18,19 @@
 ### 接口列表
 <details>
 <summary>已实现接口</summary>
+
 - [x] 刷新token
 - [x] 搜索歌曲
 - [x] 点普通歌曲
 - [x] 点付费歌曲
 - [ ] 领取会员
+</details>
+<details>
+<summary>未实现接口</summary>
+
+- [ ] 账密登录
+- [ ] 短信登录
+- [ ] 修改密码
+- [ ] 查看个人信息
+- [ ] 解析歌单
 </details>
