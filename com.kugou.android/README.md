@@ -9,7 +9,6 @@
 | (int)clientver     | 版本号          |
 | dfid               |
 | mid                |
-|
 | (int)userid        | 酷狗ID          |
 | (string)token      | token          |
 | uuid               | uuid           |
