@@ -14,3 +14,9 @@
 | uuid | string | uuid |
 | clienttime | int | 秒时间戳(10位) |
 | clienttime_ms | int | 毫秒时间戳(13位) |
+
+### 接口 
+  
+ - [x] 搜索歌曲
+ - [x] 点普通歌曲
+- [x] 点付费歌曲
