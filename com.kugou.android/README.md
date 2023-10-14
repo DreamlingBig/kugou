@@ -18,7 +18,7 @@
 ### 接口列表
 <details>
 <summary>已实现接口<summary>
-- [x] 刷新token
+ - [x] 刷新token
 - [x] 搜索歌曲
 - [x] 点普通歌曲
 - [x] 点付费歌曲
