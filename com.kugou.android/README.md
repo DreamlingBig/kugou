@@ -15,9 +15,12 @@
 | clienttime | int | 秒时间戳(10位) |
 | clienttime_ms | int | 毫秒时间戳(13位) |
 
-### 接口
+### 接口列表
+<details>
+<summary>已实现接口<summary>
 - [x] 刷新token
 - [x] 搜索歌曲
 - [x] 点普通歌曲
 - [x] 点付费歌曲
 - [ ] 领取会员
+<details>
