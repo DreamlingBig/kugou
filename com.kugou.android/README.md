@@ -1,2 +1,2 @@
 #酷狗音乐
-# com.android.kugou
+#com.android.kugou
