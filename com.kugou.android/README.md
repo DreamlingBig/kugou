@@ -1,2 +1,3 @@
 #酷狗音乐
-#com.android.kugou
+应用包名：com.android.kugou
+
