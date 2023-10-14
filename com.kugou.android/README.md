@@ -6,7 +6,7 @@
 | 参数 | 类型 | 说明 | 备注 |
 | :--- | ---: | --- | --- |
 | appid | int |
-| clientver | int | 版本号 |
+| clientver | int | APP版本号 |
 | dfid |
 | mid |
 | userid | int | 酷狗ID |
