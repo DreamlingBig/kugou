@@ -12,3 +12,5 @@
 [酷狗车载版]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.android.auto/README.md
 [酷狗大字版]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.android.elder/README.md
 [酷狗概念版]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.anrdoid.lite/README.md
+
+注：每个版本的token(会员也是)不互通！
