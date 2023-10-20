@@ -9,6 +9,6 @@
 | [酷狗概念版] | com.kugou.android.lite | 看广告领会员 & 每天领一天会员 |
 
 [酷狗音乐]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.android/README.md
-[酷狗车载版]: https://github.com/LinghongJiang/kugou/com.kugou.android.auto/README.md
-[酷狗大字版]: https://github.com/LinghongJiang/kugou/com.kugou.android.elder/README.md
-[酷狗概念版]: https://github.com/LinghongJiang/kugou/com.kugou.anrdoid.lite/README.md
+[酷狗车载版]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.android.auto/README.md
+[酷狗大字版]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.android.elder/README.md
+[酷狗概念版]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.anrdoid.lite/README.md
