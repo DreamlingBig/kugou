@@ -12,6 +12,7 @@
 | [酷狗TV版] | com.kugou.android.tv |
 | [酷狗DJ] | com.kugou.dj |
 | [酷狗HD] | com.kugou.playerHDyy |
+| [VIPER HiFi] | com.kugou.viper |
 
 [酷狗音乐]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.android/README.md
 [酷狗车载版]: https://github.com/LinghongJiang/kugou/blob/main/com.kugou.android.auto/README.md
