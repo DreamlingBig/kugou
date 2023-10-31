@@ -7,6 +7,7 @@
 | [酷狗音乐] | com.kugou.android |
 | [酷狗车载版] | com.kugou.android.auto|
 | [酷狗大字版] | com.kugou.android.elder |
+| [酷狗唱唱] | com.kugou.android.ktvapp |
 | [酷狗概念版] | com.kugou.android.lite |
 | [酷狗TV版] | com.kugou.android.tv |
 | [酷狗DJ] | com.kugou.dj |
