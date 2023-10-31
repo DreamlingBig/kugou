@@ -8,7 +8,7 @@
 | [酷狗车载版] | com.kugou.android.auto|
 | [酷狗大字版] | com.kugou.android.elder |
 | [酷狗概念版] | com.kugou.android.lite |
-| [酷狗TV版] com.kugou.android.tv |
+| [酷狗TV版] | com.kugou.android.tv |
 | [酷狗DJ] | com.kugou.dj |
 | [酷狗HD] | com.kugou.playerHDyy |
 
