@@ -2,7 +2,7 @@
 酷狗音乐
 
 | 应用名称 | 应用包名 |
-| --- | --- |
+| :---: | :---: |
 | [当贝酷狗音乐] | com.dangbei.dbmusic |
 | [酷狗音乐] | com.kugou.android |
 | [酷狗车载版] | com.kugou.android.auto|
