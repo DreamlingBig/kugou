@@ -1,6 +1,8 @@
 # kugou
 酷狗音乐
 
+https://apifox.com/apidoc/shared-073dae19-db68-4b2f-bad9-81d21329b1de
+
 | 应用名称 | 应用包名 |
 | :---: | :---: |
 | [当贝酷狗音乐] | com.dangbei.dbmusic |
